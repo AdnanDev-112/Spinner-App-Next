@@ -56,7 +56,7 @@ body {
     margin-bottom: 20px;
   }
 
-  .button-container button {
+  /* .button-container button {
     padding: 10px 20px;
     font-size: 16px;
     background-color: #4caf50;
@@ -65,7 +65,7 @@ body {
     border-radius: 4px;
     cursor: pointer;
     margin-right: 10px;
-  }
+  } */
 
   .button-container button:last-child {
     margin-right: 0;
